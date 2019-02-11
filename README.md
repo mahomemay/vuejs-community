@@ -1,29 +1,21 @@
 # vuejs-community
 
-## Project setup
-```
-npm install
-```
+## 关于该项目
 
-### Compiles and hot-reloads for development
-```
+该项目为我在学习 Vue 过程中的一个小练习
+之所以选择做这个 Vue 社区是因为 Vue-js 社区提供了比较完整的 API，所以在制作中没有什么问题出现
+
+项目在线预览：[https://mahomemay.github.io/vuejs-community/](https://mahomemay.github.io/vuejs-community/#/)
+
+## 用到的工具
+
+Vue2.x, vue-router, vuex, axios, Element-ui, Bootstrap3, vue-cli
+
+## 运行项目
+
+```shell
+# 安装项目依赖
+npm install
+# 运行项目
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
