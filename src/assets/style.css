@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    color: #2c3e50;
+    text-decoration: none;
+    transition: color ease .3s;
+}
+
+a:hover {
+    color: #42b983;
+    text-decoration: none;
+}
+
+ul, ol {
+    list-style: none;
+}
+
+body {
+    font-size: 16px;
+    color: #2c3e50;
+}
+
+/* Element Nav Style */
+.el-pager li.active, .el-tabs__item.is-active, .el-tabs__item:hover {
+    color: #42b983;
+}
+.el-tabs__active-bar {
+    background-color: #42b983;
+}
+/* Element Pagination Style */
+.el-input.is-active .el-input__inner, .el-input__inner:focus, .el-pager li:hover {
+    border-color: #42b983;
+}
